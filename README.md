@@ -1,5 +1,5 @@
 # Calendar
-A calendar component, based on jQuery. [Demo](//maxiaojie.github.io/Calendar/index.html)
+A calendar component, based on jQuery. [Demo](//maixiaojie.github.io/Calendar/index.html)
 
 ---
 
